@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162510063656",
+    "project_id": "atividade-nookbook",
+    "storage_bucket": "atividade-nookbook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162510063656:android:2eb4248426124845288d1d",
+        "android_client_info": {
+          "package_name": "com.example.atividade_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162510063656-7m7ralpht1m3od0lj95e594fhd4s2r7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtM3fa3zSPvKgeGEsgmtRspIsIgLLLBTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162510063656-7m7ralpht1m3od0lj95e594fhd4s2r7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
